@@ -12,7 +12,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ffelipeferreiira&show_icons=true&count_private=true&hide_border=true&title_color=2d8c38&icon_color=2d8c38&text_color=c9d1d9&bg_color=0d1117" alt="Felipe Ferreira github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ffelipeferreiira&show_icons=true&count_private=true&hide_border=true&title_color=208a23&icon_color=208a23&text_color=208a23&bg_color=0d1117" alt="Felipe Ferreira github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffelipeferreiira&layout=compact&hide_border=true&title_color=208a23&text_color=208a23&bg_color=0d1117" />
 </div>
 
@@ -38,3 +38,4 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2d8c38&height=120&section=footer"/>
+
